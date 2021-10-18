@@ -39,7 +39,7 @@
 
 <br />
 
-### Stats 💹
+### Github Stats 💹
 
 <img alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=verykenny&&show_icons=true&theme=gruvbox">
 
