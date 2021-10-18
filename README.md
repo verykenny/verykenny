@@ -39,8 +39,18 @@
 
 <br />
 
-### Github Stats 💹
-<img alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=verykenny&&show_icons=true&theme=gruvbox"><img alt="Kenny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verykenny" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=verykenny&&show_icons=true&theme=gruvbox">
+
+</details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img alt="Kenny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verykenny" />
+
+</details>
 
 <br />
 
