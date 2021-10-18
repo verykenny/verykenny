@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning how to deploy multiple containers on Heroku with Docker compose.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything! or early music 😄 
-- 📫 How to reach me: 
-  - verykenny@gmail.com
-  - [Portfolio][website]
+- 📫 How to reach me: verykenny@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Otters have a pocket that they use to store their favorite rock in.
 
