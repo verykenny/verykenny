@@ -42,18 +42,7 @@
 ### Github Stats 💹
 <img alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=verykenny&&show_icons=true&theme=gruvbox"><img alt="Kenny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verykenny" />
 
-
-<!-- <img alt="Stats" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api?username=verykenny&&show_icons=true&theme=gruvbox">
-<img alt="Kenny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verykenny" /> -->
-
 <br />
-
-<!-- ### Connect with me 🤝
-
-[<img align="left" alt="profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br /> -->
 
 [website]:https://kennethdonahue.com/
 [linkedin]: https://www.linkedin.com/in/kenneth-donahue/
