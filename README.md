@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything! or early music 😄 
 - 📫 How to reach me: 
   - verykenny@gmail.com
-  - [Portfolio](https://kennethdonahue.com/)
+  - [Portfolio][website]
   - [LinkedIn][linkedin]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Otters have a pocket that they use to store their favorite rock in.
@@ -48,9 +48,10 @@
 
 <!-- ### Connect with me 🤝
 
-[<img align="left" alt="profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://kennethdonahue.com/)
-[<img align="left" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kenneth-donahue/)
+[<img align="left" alt="profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="caleb gilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br /> -->
 
+[website]:https://kennethdonahue.com/
 [linkedin]: https://www.linkedin.com/in/kenneth-donahue/
