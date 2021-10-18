@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="300">
 
-## I'm a Musician, Singer, Gamer, Creator, and Software Engineer!
+## I'm a Musician, Singer, Creator, Gamer, and Software Engineer!
 - 🔭 I’m currently working on updating my latest project, rBoard, [check it out](https://github.com/verykenny/r-board)!
 - 🌱 I’m currently learning how to deploy multiple containers on Heroku with Docker compose.
 - 👯 I’m looking to collaborate on open source.
@@ -10,16 +10,15 @@
 - 📫 How to reach me: 
   - verykenny@gmail.com
   - [Portfolio][website]
-  - [LinkedIn][linkedin]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Otters have a pocket that they use to store their favorite rock in.
 
 <br />
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+### Get in touch with me, I'm excited to discuss what we can do together:
+[<img align="left" alt="linkedin profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
 
