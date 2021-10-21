@@ -5,7 +5,7 @@
 ## I'm a Musician, Singer, Creator, Gamer, and Software Engineer!
 - 🔭 I’m currently working on updating my latest project, rBoard, [check it out](https://github.com/verykenny/r-board)!
 - 🌱 I’m currently learning how to deploy multiple containers on Heroku with Docker compose.
-- 👯 I’m looking to collaborate on open source.
+- 👯 I'm always open to collaborate! Please contact me with anything you need a hand with!
 - 💬 Ask me about ... Anything! or early music 😄 
 - 📫 How to reach me: verykenny@gmail.com
 - 😄 Pronouns: he/him/his
