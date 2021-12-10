@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="300">
 
 ## I'm a Musician, Singer, Creator, Gamer, and Software Engineer!
-- 🔭 I’m currently working on updating my latest project, rBoard, [check it out](https://github.com/verykenny/r-board)!
+- 🔭 I’m currently working with Out Boulder County, helping with the frontend on the Inclusive Care Directory!
 - 👯 I'm always open to collaborate! Please contact me with anything you need a hand with!
 - 💬 Ask me about ... Anything! or early music 😄 
 - 📫 How to reach me: verykenny@gmail.com
