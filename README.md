@@ -6,7 +6,6 @@
 - 🔭 I’m currently working with Out Boulder County, helping with the frontend on the Inclusive Care Directory!
 - 👯 I'm always open to collaborate! Please contact me with anything you need a hand with!
 - 💬 Ask me about ... Anything! or early music 😄 
-- 📫 How to reach me: verykenny@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Otters have a pocket that they use to store their favorite rock in.
 
